@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-fraud-detector" />
+        <module name="servicelog" />
+        <module name="servicehttpecommerce" />
+        <module name="commonkafka" />
+        <module name="common-kafka" />
+        <module name="service-log" />
+        <module name="serviceneworder" />
+        <module name="serviceemail" />
+        <module name="servicefrauddetector" />
+        <module name="serviceusers" />
+        <module name="service-new-order" />
+        <module name="service-email" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="emailservice" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
